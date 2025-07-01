@@ -7,18 +7,26 @@ body {
 }
 
 h1 {
-    font-size: 20px;
+    font-size: 40px;
     font-weight: normal;
     border: 5px;
-    margin-top: 20px;
+    margin-top: 200px;
     text-align: center;
+    color: white;
+}
+
+p {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin-top: 300px;
 }
 
 span {
     font-family: 'Blackladder+ITC';
     font-weight: bold;
     font-style: italic;
-    font-size: 25px;
+    font-size: 50px;
     text-align: center;
 }
 
