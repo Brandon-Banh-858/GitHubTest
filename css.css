@@ -46,8 +46,6 @@ span2 {
     border-radius: 2px;
     color: rgb(20, 20, 20);
     text-align: center;
-    padding-top: 5px;
-    padding-bottom: 5px;
 }
 
 .button:hover {
@@ -56,8 +54,10 @@ span2 {
     border: 5px rgb(102, 186, 108) solid;
     color: rgb(0, 0, 0);
     text-align: center;
-    padding-top: 7.5px;
-    padding-bottom: 7.5px;
+}
+
+div {
+    text-align: center;
 }
 
 
