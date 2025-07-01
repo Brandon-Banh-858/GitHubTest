@@ -46,7 +46,8 @@ span2 {
     border-radius: 2px;
     color: rgb(20, 20, 20);
     text-align: center;
-    padding: auto;
+    padding-top: auto;
+    padding-bottom: auto;
 }
 
 .button:hover {
