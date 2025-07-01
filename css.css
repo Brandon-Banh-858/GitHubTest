@@ -46,6 +46,7 @@ span2 {
     border-radius: 1px;
     color: rgb(20, 20, 20);
     text-align: center;
+    vertical-align: center;
 }
 
 .button:hover {
