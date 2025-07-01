@@ -1,5 +1,7 @@
 body {
-    background-image: url("The Quiz Background.jpg")
+    background-image: url("The Quiz Background.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
 h1 {
