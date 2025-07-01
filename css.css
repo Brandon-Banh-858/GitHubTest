@@ -10,3 +10,8 @@ span {
     font-weight: bold;
     font-style: italic;
 }
+
+img {
+    border: 200px rgb(255, 0, 222) dotted;
+    border-radius: 50px;
+}
