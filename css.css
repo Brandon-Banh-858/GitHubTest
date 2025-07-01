@@ -49,7 +49,6 @@ span2 {
 }
 
 .button:hover {
-    display: inline-block;
     width: 306px;
     height: 36px;
     background-color: rgb(132, 239, 139);
