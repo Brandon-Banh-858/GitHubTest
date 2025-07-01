@@ -49,6 +49,8 @@ span2 {
 }
 
 .button:hover {
+    width: 306px;
+    height: 36px;
     border: 5px rgb(102, 186, 108) solid;
     color: rgb(0, 0, 0);
     text-align: center;
