@@ -37,8 +37,9 @@ span2 {
 
 .button {
     margin-top: 20px;
+    width: 100px;
     background-color: rgb(132, 239, 139);
-    border: 7px rgb(132, 239, 139) solid;
+    border: 7px rgb(102, 186, 108) solid;
     border-radius: 1px;
     color: rgb(20, 20, 20);
 }
