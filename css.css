@@ -59,19 +59,26 @@ span2 {
 
 a:link {
     text-align: center;
-    vertical-align: center;
+    vertical-align: middle;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 a:hover {
     text-align: center;
-    vertical-align: center;
+    vertical-align: middle;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 a:active {
     text-align: center;
-    vertical-align: center;
+    vertical-align: middle;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 a:visited {
     text-align: center;
-    vertical-align: center;
+    vertical-align: middle;
     color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 
