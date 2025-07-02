@@ -72,5 +72,6 @@ a:active {
 a:visited {
     text-align: center;
     vertical-align: center;
+    color: rgb(0, 0, 0);
 }
 
