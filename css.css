@@ -60,7 +60,6 @@ span2 {
 a:link {
     display: block;
     text-align: center;
-    margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
     color: rgb(0, 0, 0);
@@ -69,7 +68,6 @@ a:link {
 a:hover {
     display: block;
     text-align: center;
-    margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
     color: rgb(0, 0, 0);
@@ -78,7 +76,6 @@ a:hover {
 a:active {
     display: block;
     text-align: center;
-    margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
     color: rgb(0, 0, 0);
@@ -87,7 +84,6 @@ a:active {
 a:visited {
     display: block;
     text-align: center;
-    margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
     color: rgb(0, 0, 0);
