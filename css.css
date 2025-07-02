@@ -57,7 +57,19 @@ span2 {
     text-align: center;
 }
 
-a {
+a:link {
+    text-align: center;
+    vertical-align: center;
+}
+a:hover {
+    text-align: center;
+    vertical-align: center;
+}
+a:active {
+    text-align: center;
+    vertical-align: center;
+}
+a:visited {
     text-align: center;
     vertical-align: center;
 }
