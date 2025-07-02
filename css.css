@@ -48,6 +48,7 @@ span2 {
 }
 
 .button:hover {
+    display: block;
     font-size: 26px;
     width: 306px;
     height: 36px;
@@ -57,26 +58,38 @@ span2 {
 }
 
 a:link {
+    display: block;
     text-align: center;
-    vertical-align: middle;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
     color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a:hover {
+    display: block;
     text-align: center;
-    vertical-align: middle;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
     color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a:active {
+    display: block;
     text-align: center;
-    vertical-align: middle;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
     color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a:visited {
+    display: block;
     text-align: center;
-    vertical-align: middle;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
     color: rgb(0, 0, 0);
     text-decoration: none;
 }
